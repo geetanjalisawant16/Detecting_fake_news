@@ -15,7 +15,7 @@ collection of word Documents will convert into the matrix which contains TF-IDF 
 DATA Analysis:
 Explaination about the dataset.
 
-In this python project, we have used the CSV dataset. The dataset contains 7796 rows and 4 columns.
+In this python project, we have used the CSV dataset. The dataset contains 6335 rows and 4 columns.
 
 This dataset has four columns,
 
