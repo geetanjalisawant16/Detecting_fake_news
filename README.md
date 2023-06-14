@@ -22,5 +22,5 @@ This dataset has four columns,
 title: this represents the title of the news.
 author: this represents the name of the author who has written the news.
 text: this column has the news itself.
-label: this is a binary column representing if the news is fake (1) or real (0).
+label: fake and real.
 The dataset is open-sourced and can be found here.
