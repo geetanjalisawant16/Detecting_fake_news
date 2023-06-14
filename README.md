@@ -18,9 +18,8 @@ Explaination about the dataset.
 In this python project, we have used the CSV dataset. The dataset contains 6335 rows and 4 columns.
 
 This dataset has four columns,
-
+unnamed: index column
 title: this represents the title of the news.
-author: this represents the name of the author who has written the news.
 text: this column has the news itself.
 label: fake and real.
 The dataset is open-sourced and can be found here.
